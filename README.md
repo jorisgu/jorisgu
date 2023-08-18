@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [Rumble Studio](https://rumble.studio), to help people and companies produce and share audio content with no skills
-- 🌱 I’m currently learning a lot around PWA, Angular, Firebase, Mailjet, Amplitude, HuggingFace, Startup founding...
+- 🔭 I’m the founder of [Rumble Studio](https://rumble.studio), helping people and companies produce and share audio content with no skills
+- 🌱 I'm available as a freelance
+- 👯 I'm working over a new tool: a no-code platform called Banana Army with @ssrpo
+- 🧠 I'm a big fan/user of FastAPI, Angular, Nx, GCP
 - 💬 Ask me about anything! ;) But I got a degree in computer vision and deep learning so I know more stuff there!
 - ⚡ Fun fact: my dog is called Java 💛, my next dog will be Python
 - 📫 How to reach me: via [Linkedin](https://www.linkedin.com/in/jorisguerry/)

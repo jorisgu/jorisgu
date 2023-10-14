@@ -11,7 +11,7 @@
 - 🔭 I’m the (co-)founder of
   - [Rumble Studio 🎙️](https://rumble.studio), helping people and companies produce and share audio content with no skills
   - [WIP 🍌🪖] Banana Army, a no-code platform with a focus over inclusivity, accessibbility and ecological impact,
-  - [WIP 💬] Spoken, an alternative to Rumble Studio, with a focus over flexibility in while designing interviews,
+  - [WIP 💬] Spoken, an alternative to Rumble Studio, with a focus over flexibility while designing interviews,
 - I previously worked over other projects:
   - [RIP 🪦 🎥🧠] Mimo Vision, a SaaS to take advantage of existing surveillance camera networks and let you control your image, up to monetize your tracking rights with partners,
   - [RIP 🪦 💻🤓🛠️] Boosty, a SaaS to use AI (Computer Vision, NLP and RL) to analyse existing platforms (web or desktop) and update-to-date components

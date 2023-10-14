@@ -15,7 +15,10 @@
 - I previously worked over other projects:
   - [RIP 🪦 🎥🧠] Mimo Vision, a SaaS to take advantage of existing surveillance camera networks and let you control your image, up to monetize your tracking rights with partners,
   - [RIP 🪦 💻🤓🛠️] Boosty, a SaaS to use AI (Computer Vision, NLP and RL) to analyse existing platforms (web or desktop) and update-to-date components
-  
+- I want to work over:
+  - Kokoi: a SaaS to help writers write
+  - Boosty: make it live again :)
+  - a lot of other things
 
 
 <!--

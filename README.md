@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I'm available as a freelance
+- 🌱 I'm available as a freelancer
 - 👯 I'm working over a new tool: a no-code platform called Banana Army with @ssrpo
 - 🧠 I'm a big fan/user of FastAPI, Angular, Nx, GCP
 - 💬 Ask me about anything! ;) But I got a degree in computer vision and deep learning so I know more stuff there!
